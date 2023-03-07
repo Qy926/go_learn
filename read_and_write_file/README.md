@@ -1,0 +1,2 @@
+- [Golang文件写入的四种方式](https://www.jianshu.com/p/ad2e2ad7dd07)
+- [Golang读取文件和处理超大文件方案](https://www.jianshu.com/p/509bb77ec103)
